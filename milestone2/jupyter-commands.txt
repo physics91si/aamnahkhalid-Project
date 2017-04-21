@@ -1,0 +1,5 @@
+Access Keyboard Shortcuts Without Memorising Them: Crtl+Shift+P 
+Run a cell: Shift+Enter
+Delete a cell: Esc + D+ D
+Change cell to markdown: Esc + M
+Insert Cell below: Esc + B
